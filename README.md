@@ -29,17 +29,15 @@ font-family: cursive;"> ✨𝓗𝓲   Ｉ＇ｍ  >. Ｄｉｇｉｔａｌ. </div
 <!-- BLOG-POST-LIST:END -->
 
 
+
+
+
 i'm lisitng to...
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1227103002&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1227103002&redirect=true)
 
 
-<!-- Jokes Card -->
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
-<!-- HTML -->
-<center>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</center>
+
 
 <!-- <style> -->
  &nbsp; [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) &nbsp; <br>
@@ -111,4 +109,11 @@ i'm lisitng to...
 <p align="left">
   <!-- Badges go here>
 </p>
+
+<!-- Jokes Card -->
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+<!-- HTML -->
+<center>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</center>
 
