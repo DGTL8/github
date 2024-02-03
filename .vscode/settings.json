@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.iconTheme": "vscode-icons",
+
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        // "editor.defaultFormatter": "darkriszty.markdown-table-prettify"
+    }
+}
+

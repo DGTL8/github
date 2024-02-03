@@ -1,0 +1,12 @@
+// @recommended, @enabled, @outdated, @installed, @disabled;
+//@category:themes, @category:formatters, @category:linters, @category:snippets ||  @installed @category:themes
+{
+    "recommendations": [
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint",
+        "bierner.markdown-mermaid",
+        "bierner.markdown-preview-github-styles",
+        "dionmunk.vscode-notes",
+        "wayou.vscode-todo-highlight"
+    ],
+}
