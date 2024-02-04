@@ -1,20 +1,18 @@
+<body>
 <div align="center" style="font-size: 1.5em; font-family: cursive;">✨𝓗𝓲 Ｉ＇ｍ Ｄｉｇｉｔａｌ.</div>
 <!-- [@Digital](https://github.com/) -->
 
-
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" alt="Typing SVG">
-  </a>
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&size=24&pause=1000&color=0AFF0A&vCenter=true&random=true&width=435&lines=Lets+build+some+ProngGrams.%F0%9F%A6%9E" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-<div style="text-align:center"> My Latest StackOverflow Activity</div>
+<!-- <div style="text-align:center"> My Latest StackOverflow Activity</div> -->
 
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
 <!-- [![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) -->
 <!-- [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/) -->
 <!-- [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) -->
@@ -26,6 +24,9 @@
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigital-foundry&count_bg=%237F956E&title_bg=%23555555&icon=superuser.svg&icon_color=%23C5FFB0&title=your+visitor&edge_flat=false" alt="Visitor Counter"/>
     </a>
 </div>
+
+</body>
+
 
 <!-- ################################################### -->
 <!---DailyDevCard--->
