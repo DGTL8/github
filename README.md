@@ -18,13 +18,13 @@
 <!-- [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) -->
 <!-- ################################################### -->
 
-<!-- hitCount -->
+<!-- hitCount 
  <div style="text-align: right;">
     <a href="https://hits.seeyoufarm.com" rel="nofollow">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigital-foundry&count_bg=%237F956E&title_bg=%23555555&icon=superuser.svg&icon_color=%23C5FFB0&title=your+visitor&edge_flat=false" alt="Visitor Counter"/>
     </a>
 </div>
-
+-->
 </body>
 
 
