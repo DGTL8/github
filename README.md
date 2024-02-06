@@ -9,7 +9,6 @@
 
 ---
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1227103002&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=1227103002&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)]]
 
 <!-- <div style="text-align:center"> My Latest StackOverflow Activity</div> -->
 
