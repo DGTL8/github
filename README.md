@@ -10,8 +10,6 @@
 ---
 
 
-<div>
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1227103002&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)</div>
 
 <!-- <div style="text-align:center"> My Latest StackOverflow Activity</div> -->
 
@@ -31,7 +29,11 @@
 -->
 </body>
 
+<div style="margin-right: 30px;">
 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1227103002&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 
 <!-- ################################################### -->
 <!---DailyDevCard--->
